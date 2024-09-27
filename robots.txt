@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yequlukufequ.netlify.app/sitemap.xml
